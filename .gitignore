@@ -17,3 +17,7 @@ application/logs/*
 /vendor/
 /nbproject/private/
 /nbproject/
+
+.idea/
+.idea/vcs.xml
+writable/debugbar/*
